@@ -1,5 +1,7 @@
 {
-  "project_name": "Scaffolded Quarkus App",
-  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
-  "author": "Anonymous"
+  "serviceName": "Scaffolded Quarkus App",
+  "project_slug": "{{ cookiecutter.serviceName.lower().replace(' ', '_') }}",
+  "ownerUsername": "anonymous",
+  "team": "Group that manages this service",
+  "description": "Placeholder text. Authors should provide a description of their service here."
 }

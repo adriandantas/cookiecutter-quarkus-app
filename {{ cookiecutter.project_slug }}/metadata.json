@@ -1,0 +1,6 @@
+{
+  "serviceName": "{{ cookiecutter.serviceName }}",
+  "ownerUsername": "{{ cookiecutter.ownerUsername }}",
+  "team": "{{ cookiecutter.team }}",
+  "description": "{{ cookiecutter.description }}",
+}

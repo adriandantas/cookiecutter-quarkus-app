@@ -1,4 +1,4 @@
-# {{ cookiecutter.project_name }}
+# {{ cookiecutter.serviceName }}
 
 {{ cookiecutter.description }}
 
@@ -46,5 +46,5 @@ Or, if you don't have GraalVM installed, you can run the native executable build
 You can then execute your native executable with: `./target/{{ cookiecutter.serviceName }}-1.0.0-SNAPSHOT-runner`
 
 # Contact information
-Owner: {{ cookiecutter.owneUsername }}
-Team: {{ cookiecutter.team }}
+Owner: **@{{ cookiecutter.ownerUsername }}**
+Team: **{{ cookiecutter.team }}**

@@ -1,5 +1,5 @@
 {
-  "serviceName": "Scaffolded Quarkus App",
+  "serviceName": "scaffolded-quarkus-svc",
   "project_slug": "{{ cookiecutter.serviceName.lower().replace(' ', '_') }}",
   "ownerUsername": "anonymous",
   "team": "Group that manages this service",
